@@ -3,7 +3,7 @@ import React from 'react'
 function App() {
   return (
     <div>
-      <h1>Hello React!</h1>
+      <h1>Hola Mondo</h1>
       <p>This is an empty React project ready for development.</p>
     </div>
   )
